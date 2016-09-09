@@ -178,8 +178,8 @@
     [self.viewerCountItem setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
     [self.viewerCountItem setTitleEdgeInsets:inviteIconInset];
     
-    self.viewerCountItem.backgroundColor = [UIColor lightGrayColor];
-    self.viewerCountItem.titleLabel.backgroundColor = [UIColor yellowColor];
+//    self.viewerCountItem.backgroundColor = [UIColor lightGrayColor];
+//    self.viewerCountItem.titleLabel.backgroundColor = [UIColor yellowColor];
     
     frame = self.inviteItem.frame;
     frame.origin.x += self.itemWidth;
